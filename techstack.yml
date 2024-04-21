@@ -1,0 +1,517 @@
+repo_name: nanaknketsiah/kite-vscode-plugin
+report_id: 69ba2d3a00e8b2bf669c3f3a72566e09
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-21T20:15:14+00:00'
+requested_by: web-flow
+provider: github
+branch: master
+detected_tools_count: 38
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: abe33
+  last_updated_on: 2017-04-19 12:42:07.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/docker-image/Dockerfile
+  detection_source: docker-image/Dockerfile
+  last_updated_by: juan
+  last_updated_on: 2017-05-10 23:35:32.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: edzkite
+  last_updated_on: 2021-01-15 20:15:15.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: abe33
+  last_updated_on: 2017-04-19 12:42:07.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: abe33
+  last_updated_on: 2017-04-19 12:42:07.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 6.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: abe33
+  last_updated_on: 2017-04-19 12:42:07.000000000 Z
+- name: Rollbar
+  description: Proactively discover, predict, and remediate errors.
+  website_url: https://rollbar.com/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/328/default_3147629185038a15dd41907749544023633da1ea.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 9.2.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: abe33
+  last_updated_on: 2017-07-05 14:56:36.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: config/webpack.config.js
+  last_updated_by: Dane Bratz
+  last_updated_on: 2019-05-10 17:30:13.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: edzkite
+  last_updated_on: 2020-09-29 19:06:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: abe33
+  last_updated_on: 2017-04-19 12:42:07.000000000 Z
+- name: Mixpanel
+  description: Powerful, self-serve product analytics to help you convert, engage,
+    and retain more users
+  website_url: https://mixpanel.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: General Analytics
+  image_url: https://img.stackshare.io/service/60/default_a3830bd6c50dcc059aaf3aaf287131b64e0957e2.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2020-11-13 22:45:30.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin
+  detection_source: Repo Metadata
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 3.17.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2020-11-13 22:45:30.000000000 Z
+  vulnerabilities:
+  - name: Terser insecure use of regular expressions leads to ReDoS
+    cve_id: CVE-2022-25858
+    cve_url: https://github.com/advisories/GHSA-4wf5-vphf-c2xc
+    detected_date: Jul 20
+    severity: high
+    first_patched: 4.8.1
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: edzkite
+  last_updated_on: 2021-01-15 20:15:15.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 5.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 10.12.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: "@types/sinon"
+  description: TypeScript definitions for Sinon
+  package_url: https://www.npmjs.com/@types/sinon
+  version: 9.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.7.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: fs-plus
+  description: Node's fs with more helpers
+  package_url: https://www.npmjs.com/fs-plus
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17308/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2020-11-13 22:45:30.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: jsdom-global
+  description: Enable DOM in Node.js
+  package_url: https://www.npmjs.com/jsdom-global
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16546/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: md5
+  description: Js function for hashing messages with MD5
+  package_url: https://www.npmjs.com/md5
+  version: 2.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16342/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: abe33
+  last_updated_on: 2017-04-19 12:42:07.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 7.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2020-11-13 22:45:30.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: BigTSoft
+  last_updated_on: 2021-01-25 19:14:24.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tonycheang
+  last_updated_on: 2021-01-13 19:02:31.000000000 Z
+- name: webpack-node-externals
+  description: Easily exclude node_modules in Webpack bundle
+  package_url: https://www.npmjs.com/webpack-node-externals
+  version: 2.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/nanaknketsiah/kite-vscode-plugin/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tony Cheang
+  last_updated_on: 2021-02-05 20:13:34.000000000 Z
